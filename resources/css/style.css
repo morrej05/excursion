@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: white;
+  font-family: verdana;
+  font-weight: normal;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+#excursion{
+  color: aquamarine;
+  font-size: 16px;
+}
